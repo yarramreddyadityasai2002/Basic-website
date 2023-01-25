@@ -1,2 +1,2 @@
-# Basic-website
+# Web Projects
 WEB PROJECTS 
